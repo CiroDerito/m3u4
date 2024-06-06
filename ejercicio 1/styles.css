@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: #FFEFBA;  
+    background: -webkit-linear-gradient(to right, #FFFFFF, #FFEFBA);  
+    background: linear-gradient(to right, #FFFFFF, #FFEFBA);
+
+}
+
+.cuadrado {
+    width: 150px;
+    height: 150px;
+    margin: 20px;
+    cursor: pointer;
+}
+
+#cuadrado1 {
+    background-color: rgb(236, 135, 2);
+}
+
+#cuadrado2 {
+    background-color: rgb(18, 159, 194);
+}
+
+#cuadrado3 {
+    background-color: rgb(128, 0, 85);
+}
